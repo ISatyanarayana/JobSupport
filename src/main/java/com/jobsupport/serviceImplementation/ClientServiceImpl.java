@@ -29,5 +29,3 @@ public class ClientServiceImpl implements ClientService{
 				.build();
 		 clientRepository.save(client);
 	}
-
-}
