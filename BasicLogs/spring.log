@@ -57,3 +57,4 @@ Caused by: org.hibernate.AnnotationException: Entity 'com.jobsupport.entity.Clie
 	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1820)
 	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1769)
 	... 21 common frames omitted
+

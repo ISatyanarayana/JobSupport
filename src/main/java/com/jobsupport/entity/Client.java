@@ -19,7 +19,7 @@ import lombok.NoArgsConstructor;
 public class Client {
 	
 	@Id
-	@GeneratedValue(strategy = GenerationType.IDENTITY)
+	@GeneratedValue(strategy = GenerationType.AUTO)
 	private String id;
 
 	private String firstname;
