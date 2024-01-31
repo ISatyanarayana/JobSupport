@@ -19,7 +19,7 @@ import lombok.NoArgsConstructor;
 public class Freelancer {
 	
 	@Id
-	@GeneratedValue(strategy = GenerationType.IDENTITY)
+	@GeneratedValue(strategy = GenerationType.AUTO)
 	private String id;
 
 	private String firstname;
